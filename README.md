@@ -1,7 +1,7 @@
-# Capstone #1
+# PERC Summit 2022
 
-> This website is about an fictional PERC conference taking place in Uganda!.
-
+> This website is about an PERC conference taking place in Uganda!.
+PERC is a research institute dedicated to promoting conservation by exploring how voluntary trade can produce positive environmental outcomes. We are committed to exploring the ideas of free market environmentalism this project is about the up coming summit to be held in Uganda
 
 ## Built With
 
