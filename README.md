@@ -17,7 +17,7 @@
 
 Run:
 ```
-
+git@github.com:Kirabo19/capstone-project.git
 ```
 
 ## Authors
